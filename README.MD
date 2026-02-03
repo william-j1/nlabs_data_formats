@@ -1,4 +1,4 @@
-# File Formats
+# Data Formats
 
 NLABS.app encompasses many object types and each has its own format for data exchange.
 
