@@ -6,10 +6,11 @@ NLABS.app permits file imports for data analysis and rendering. This repository 
 
 | Type       | Result       | Notes                    |
 |:----------:|--------------|--------------------------|
-| PNG        | Image        | ........................ |
-| JPG        | Image        | ........................ |
 | BMP        | Image        | ........................ |
-| DCM	     | Image        | MONOCHROME1, MONOCHROME2 |
+| DCM	       | Image        | MONOCHROME1, MONOCHROME2 |
+| JPG        | Image        | ........................ |
+| PLY        | Shape        | ........................ |
+| PNG        | Image        | ........................ |
 
 # Unsupported
 
